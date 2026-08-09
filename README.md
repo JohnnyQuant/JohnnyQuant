@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 📊 Data Analyst passionate about **Power BI, Python, SQL**
+- 📊 Data Analyst passionate about **Power BI, Python, SQL and Excel**
 - 🎯 Focused on turning data into clear insights
 - 🌍 Based in Saigon, Vietnam
 - 💡 Always learning and sharing projects
