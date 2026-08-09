@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thanh (JohnnyQuant)
+# 👋 Hi, I'm Thanh Hien (JohnnyQuant)
 
 
 
