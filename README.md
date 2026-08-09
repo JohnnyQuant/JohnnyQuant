@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Thanh (JohnnyQuant)
 
-<!--
-**JohnnyQuant/JohnnyQuant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://your-banner-link.png)
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/JohnnyQuant?style=social)]()
+[![GitHub stars](https://img.shields.io/github/stars/JohnnyQuant?style=social)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 📊 Data Analyst passionate about **Power BI, Python, SQL**
+- 🎯 Focused on turning data into clear insights
+- 🌍 Based in Saigon, Vietnam
+- 💡 Always learning and sharing projects
+
+---
+
+## 🔥 Featured Projects
+- [Power_BI_Data_Project](https://github.com/JohnnyQuant/Power_BI_Data_Project) 📊  
+- [Python_Data_Project](https://github.com/JohnnyQuant/Python_Data_Project) 🐍  
+- [SQL_Data_Project](https://github.com/JohnnyQuant/SQL_Data_Project) 🗄️  
+
+---
+
+## 📈 GitHub Stats
+![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyQuant&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyQuant&layout=compact&theme=radical)
+
+---
+
+## 🎉 Fun Facts
+- 🏆 Love building dashboards that tell stories
+- 📚 Enjoy teaching others about data
+- 🎨 Experimenting with creative README designs
