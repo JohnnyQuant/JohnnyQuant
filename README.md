@@ -23,13 +23,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyQuant&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyQuant&layout=compact&theme=radical)
-
----
-
 ## 🎉 Fun Facts
 - 🏆 Love building dashboards that tell stories
 - 📚 Enjoy teaching others about data
