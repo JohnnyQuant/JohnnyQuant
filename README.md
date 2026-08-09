@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thanh (JohnnyQuant)
 
-![Banner](https://your-banner-link.png)
+
 
 [![GitHub followers](https://img.shields.io/github/followers/JohnnyQuant?style=social)]()
 [![GitHub stars](https://img.shields.io/github/stars/JohnnyQuant?style=social)]()
