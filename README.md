@@ -19,7 +19,8 @@
 ## 🔥 Featured Projects
 - [Power_BI_Data_Project](https://github.com/JohnnyQuant/Power_BI_Data_Project) 📊  
 - [Python_Data_Project](https://github.com/JohnnyQuant/Python_Data_Project) 🐍  
-- [SQL_Data_Project](https://github.com/JohnnyQuant/SQL_Data_Project) 🗄️  
+- [SQL_Data_Project](https://github.com/JohnnyQuant/SQL_Data_Project) 🗄️
+- [Excel_Data_Project](https://github.com/JohnnyQuant/Excel_Data_Project) 
 
 ---
 
