@@ -21,7 +21,7 @@
 - [Python_Data_Project](https://github.com/JohnnyQuant/Python_Data_Project) 🐍  
 - [SQL_Data_Project](https://github.com/JohnnyQuant/SQL_Data_Project) 🗄️
 - [Excel_Data_Project](https://github.com/JohnnyQuant/Excel_Data_Project) 📈
-
+- [SQL_Power BI_Project](https://github.com/JohnnyQuant/SQL_Power BI_Project)🎨
 ---
 
 ## 🎉 Fun Facts
