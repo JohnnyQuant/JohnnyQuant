@@ -22,6 +22,7 @@
 - [SQL_Data_Project](https://github.com/JohnnyQuant/SQL_Data_Project) 🗄️
 - [Excel_Data_Project](https://github.com/JohnnyQuant/Excel_Data_Project) 📈
 - [SQL_Power_BI_Project](https://github.com/JohnnyQuant/SQL_Power-BI_Project)🎨
+- [Stock_Portfolio_Analysis](https://github.com/JohnnyQuant/Excel_Stock_Analysis)📊
 ---
 
 ## 🎉 Fun Facts
